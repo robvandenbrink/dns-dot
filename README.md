@@ -4,5 +4,6 @@ nmap script for dns-dot (DNS over TLS)
 This version of the script requires knot-dnsutils (specifically kdig).
 This script calls kdig via os.execute()
 
-Full write-up will be at https://isc.sans.edu
-(post will be 1 March 2021)
+A more complete write-up of DNS over TLS, and usage of this cript is here: https://isc.sans.edu/diary/Fun+with+DNS+over+TLS+%28DoT%29/27150
+
+
